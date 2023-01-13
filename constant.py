@@ -1,0 +1,1 @@
+WANTED_INTERFACES = ['TenGigabitEthernet','GigabitEthernet','Port-channel']

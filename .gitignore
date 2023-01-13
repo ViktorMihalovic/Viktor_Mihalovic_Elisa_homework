@@ -119,6 +119,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+database.ini/
 
 # Spyder project settings
 .spyderproject
